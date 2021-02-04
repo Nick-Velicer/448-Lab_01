@@ -1,1 +1,1 @@
-int x = 25;
+string x = "original line";
